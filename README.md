@@ -36,14 +36,6 @@ Currently, I am strengthening my skills by experimenting with code and building 
 
 ---
 
-## 📊 GitHub Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MorphEdit&show_icons=true&theme=default&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MorphEdit&layout=compact&theme=default&cache_seconds=1800)
-
----
-
 ## 🎯 Purpose of This GitHub
 
 This GitHub is mainly used for:
