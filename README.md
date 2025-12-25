@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**MorphEdit/MorphEdit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Arm
 
-Here are some ideas to get you started:
+I am a **Frontend Developer (Beginner level)** who is learning and practicing building real web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on writing clean and structured code, improving UI, fixing bugs, and creating responsive layouts.  
+Currently, I am strengthening my skills by experimenting with code and building practice projects.
+
+---
+
+## 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,bootstrap,jquery&perline=8" />
+
+---
+
+## 💡 What I Can Do
+
+- Build responsive websites using HTML, CSS, and SCSS
+- Improve UI and fix layout or styling issues
+- Add interactivity with JavaScript and jQuery
+- Create dynamic pages using PHP
+- Connect PHP with MySQL databases
+- Build basic Admin / Dashboard pages
+- Implement Login & Authentication systems
+
+---
+
+## 📚 Currently Learning
+
+- Writing cleaner and more maintainable code
+- Improving responsive design skills
+- Better structuring PHP projects
+- Understanding real-world web workflows
+
+---
+
+## 🎯 Purpose of This GitHub
+
+This GitHub is mainly used for:
+- Practicing and experimenting with code
+- Learning through small projects
+- Improving frontend and PHP skills step by step
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/MorphEdit
+
+</div>
