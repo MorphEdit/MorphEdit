@@ -1,52 +1,44 @@
 <div align="left">
 
-# 👋 Hello, I'm Arm
+# Hi, I'm Arm 👋
 
-I am a **Frontend Developer (Beginner level)** who is learning and practicing building real web applications.
+I'm a **Web Developer** who enjoys building real, functional web applications —  
+from frontend UI to backend APIs and deployment.
 
-I focus on writing clean and structured code, improving UI, fixing bugs, and creating responsive layouts.  
-Currently, I am strengthening my skills by experimenting with code and building practice projects.
+I focus on writing clean, structured code and learning through hands-on projects.
 
 ---
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,bootstrap,jquery&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,bootstrap,jquery,nodejs,docker&perline=10" />
 
 ---
 
 ## 💡 What I Can Do
 
 - Build responsive websites using HTML, CSS, and SCSS
-- Improve UI and fix layout or styling issues
+- Create dynamic pages and REST APIs using PHP
 - Add interactivity with JavaScript and jQuery
-- Create dynamic pages using PHP
-- Connect PHP with MySQL databases
-- Build basic Admin / Dashboard pages
-- Implement Login & Authentication systems
+- Connect backend with MySQL databases
+- Build Admin / Dashboard pages with authentication
+- Set up Node.js services and Discord bots
+- Work with Docker for local and production environments
 
 ---
 
 ## 📚 Currently Learning
 
 - Writing cleaner and more maintainable code
-- Improving responsive design skills
-- Better structuring PHP projects
-- Understanding real-world web workflows
-
----
-
-## 🎯 Purpose of This GitHub
-
-This GitHub is mainly used for:
-- Practicing and experimenting with code
-- Learning through small projects
-- Improving frontend and PHP skills step by step
+- Better structuring PHP and Node.js projects
+- Understanding real-world web architecture and workflows
 
 ---
 
 ## 📫 Contact
 
 - GitHub: https://github.com/MorphEdit
+- Email: morphofficialedit@gmail.com
+- Discord: khungkhang
 
 </div>
