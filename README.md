@@ -2,36 +2,38 @@
 
 # Hi, I'm Arm 👋
 
-I'm a **Web Developer** who enjoys building real, functional web applications —  
-from frontend UI to backend APIs and deployment.
+I build **real, working software across the whole stack** — web apps and REST APIs,
+desktop tools, mobile apps, game plugins, and low-level Windows utilities.
 
-I focus on writing clean, structured code and learning through hands-on projects.
+I like shipping things end to end: clean, structured code, run in Docker,
+pushed to production. Most of what I build comes from a real problem I wanted solved.
 
 ---
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,bootstrap,jquery,nodejs,docker&perline=10" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,c,cs,java,dart,flutter,react,nodejs,electron,html,css,sass,mysql,postgres,sqlite,docker,nginx&perline=10" />
 
 ---
 
-## 💡 What I Can Do
+## 💡 What I Build
 
-- Build responsive websites using HTML, CSS, and SCSS
-- Create dynamic pages and REST APIs using PHP
-- Add interactivity with JavaScript and jQuery
-- Connect backend with MySQL databases
-- Build Admin / Dashboard pages with authentication
-- Set up Node.js services and Discord bots
-- Work with Docker for local and production environments
+- **Web & APIs** — dynamic sites and REST backends in PHP & Node, admin/dashboard UIs with auth, MySQL / PostgreSQL / SQLite
+- **Business systems** — a full cost & quotation platform, reverse-proxy + deploy manager, delivery-note & attendance apps used in production
+- **Desktop apps** — Electron loaders and tools, plus a mini-EDR in C#/.NET that catches infostealers
+- **Systems / low-level** — a Windows memory scanner written in C with no CRT, and other native tooling
+- **Mobile** — Flutter and React Native (Expo) apps
+- **Game dev** — Minecraft plugins in Java (Morph* suite), and game overlays/tools
+- **Automation & security** — Python bots, payload labs, and testing scripts for authorized use
+- **Infra** — Docker Compose, nginx routing, self-hosted deployments
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Into
 
-- Writing cleaner and more maintainable code
-- Better structuring PHP and Node.js projects
-- Understanding real-world web architecture and workflows
+- Writing cleaner, more maintainable code across languages
+- Real-world architecture: how systems actually run in production
+- Going lower-level — memory, native code, and Windows internals
 
 ---
 
