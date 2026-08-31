@@ -12,7 +12,7 @@ pushed to production. Most of what I build comes from a real problem I wanted so
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,c,cs,java,dart,flutter,react,nodejs,electron,html,css,sass,mysql,postgres,sqlite,docker,nginx&perline=10" />
+<img src="https://skillicons.dev/icons?i=php,ts,python,cs,java,dart,react,nodejs,docker,postgres&perline=10" />
 
 ---
 
