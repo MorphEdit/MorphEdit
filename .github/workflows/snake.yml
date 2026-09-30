@@ -22,6 +22,12 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Remove progress bar
+        run: |
+          for f in dist/*.svg; do
+            sed -i -E 's#<rect class="u [^>]*/>##g; s#viewBox="(-?[0-9.]+) (-?[0-9.]+) ([0-9.]+) 192"#viewBox="   160"#; s#height="192"#height="160"#' "$f"
+          done
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
